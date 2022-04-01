@@ -1,0 +1,16 @@
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.exe
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.deps.json
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.runtimeconfig.json
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.runtimeconfig.dev.json
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.dll
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\ref\CreateBillID.dll
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\bin\Debug\net5.0\CreateBillID.pdb
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.csproj.AssemblyReference.cache
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.AssemblyInfoInputs.cache
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.AssemblyInfo.cs
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.csproj.CoreCompileInputs.cache
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.dll
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\ref\CreateBillID.dll
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.pdb
+C:\Users\trann\source\repos\CreateBillID\CreateBillID\obj\Debug\net5.0\CreateBillID.genruntimeconfig.cache
